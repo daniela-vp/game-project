@@ -174,7 +174,7 @@ let score = 0;
 setInterval(() => {
     const newObstacle = new Obstacle();
     obstacleArr.push(newObstacle)
-}, 3000);
+}, 2500);
 
 setInterval(() => {
     obstacleArr.forEach((obstacleInstance) => {
@@ -202,7 +202,7 @@ function updateScore() {
 setInterval(() => {
     const newPrize = new Prize();
     prizeArr.push(newPrize)
-}, 3000);
+}, 2500);
 
 setInterval(() => {
     prizeArr.forEach((prizeInstance) => {
