@@ -13,5 +13,5 @@ Move the player with arrow keys.
 
 ## Demo 
 
-https://daniela-vp.github.io/game-project/index.html
+https://daniela-vp.github.io/game-project/
 
